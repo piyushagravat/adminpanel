@@ -1,0 +1,37 @@
+<span style="font-size:14px;text-align: center">M.J. AKBAR'S BLOG : Edited & Brought to You By Ilaxi Patel (VA & Official Blogger to MJ)<br />
+Editor,  Kidsfreesouls.com - Newspaper for Kids with Resources for Parents & Teachers<br />
+Copyright © MJAkbar 2004 - 2016 - All rights reserved.<br /></span>
+<span style="font-size:12px;text-align: center">Designed & Developed by <a target="_blank" href="http://arniontechnologies.com/">Arnion Technologies Pvt. Ltd.</a></span>
+
+
+
+<li><a href="http://www.mjakbar.org/2016/02/10/fratelli-di-sangue/">Fratelli di Sangue</a></li><li><a href="http://www.mjakbar.org/2016/01/27/a-mirror-to-power-by-m-j-akbar-harper-collins/">A Mirror to power BY M J AKBAR (HARPER COLLINS )</a></li>
+<li><a href="http://www.mjakbar.org/2015/12/18/have-pen-will-travel-observations-of-a-globetrotter-by-m-j-akbar/">Have Pen, Will Travel</a></li>
+<li><a href="http://www.mjakbar.org/shade-of-swords/">Shade Of Swords</a></li>
+<li><a href="http://www.mjakbar.org/books-by-mj/">Blood Brothers BY M J AKBAR</a></li>
+<li><a href="http://www.mjakbar.org/category/books/">BYLINE By M J Akbar</a></li>
+<li><a href="http://www.mjakbar.org/187-2/">INDIA: The Siege Within</a></li>
+<li><a href="http://www.mjakbar.org/nehruthe-making-of-india/">NEHRU:The Making Of India</a></li>
+<li><a href="http://www.mjakbar.org/riot-after-riot/">Riot After Riot</a></li>
+<li><a href="http://www.mjakbar.org/kashmir-behind-the-vale/">Kashmir Behind The Vale</a></li>
+<li><a href="http://www.mjakbar.org/tinderbox/">TINDERBOX : The Past And Future Of Pakistan</a></li>
+
+
+
+backstudtechnology@gmail.com
+
+<a href="<?php esc_url(the_permalink()) ?>" rel="bookmark"></a>
+
+[show_more more="your text" less="your text" color="#0066cc"] content [/show_more]
+
+
+// Change Excerpt More
+add_filter('excerpt_more', 'themezee_excerpt_more');
+function themezee_excerpt_more($more) {
+    return '';
+}` 
+
+
+
+
+
